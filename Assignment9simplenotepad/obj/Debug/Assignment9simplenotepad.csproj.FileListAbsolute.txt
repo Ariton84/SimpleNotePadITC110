@@ -1,0 +1,14 @@
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\bin\Debug\Assignment9simplenotepad.exe.config
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\bin\Debug\Assignment9simplenotepad.exe
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\bin\Debug\Assignment9simplenotepad.pdb
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\Assignment9simplenotepad.csprojResolveAssemblyReference.cache
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\MainWindow.g.cs
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\App.g.cs
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\Assignment9simplenotepad_MarkupCompile.cache
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\Assignment9simplenotepad_MarkupCompile.lref
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\MainWindow.baml
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\Assignment9simplenotepad.g.resources
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\Assignment9simplenotepad.Properties.Resources.resources
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\Assignment9simplenotepad.csproj.GenerateResource.Cache
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\Assignment9simplenotepad.exe
+c:\users\vwbrown\documents\visual studio 2015\Projects\Assignment9simplenotepad\Assignment9simplenotepad\obj\Debug\Assignment9simplenotepad.pdb
